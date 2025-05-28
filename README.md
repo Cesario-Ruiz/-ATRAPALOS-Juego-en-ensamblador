@@ -4,8 +4,7 @@ Un simple juego en ensamblador. Utilizando los temas vistos en la materia de Len
 ![alt text](boceto_feo.png)
 
 ## Versión final:
-![alt text] (versión final.png)
-
+![](versión_final.png)
 ## Demostración del juego:
 ![alt text](Demostración.gif)
 
