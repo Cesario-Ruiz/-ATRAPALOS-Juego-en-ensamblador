@@ -1,5 +1,5 @@
 # ATRAPALOS! [Juego en ensamblador]
-Un simple juego en ensamblador. Utilizando los temas vistos en la materia de Lenguajes de Interfaz.
+Un simple juego en ensamblador. Utilizando los temas vistos en la materia Lenguajes de Interfaz.
 ## Reglas del Juego:
 * El juego no tiene final, **¿Hasta donde puedes llegar?**
 * Atrapar un rombo **verde**, da 10 puntos
